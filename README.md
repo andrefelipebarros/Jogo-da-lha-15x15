@@ -52,9 +52,3 @@
   >     **6.** Coming Soon
 </details>
 
-> Coming Soon
-> - 
-> - 
-> - 
-
-<br/>
